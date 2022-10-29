@@ -1,0 +1,1 @@
+{"pageid": 3740871, "ns": 0, "title": "Squidboy", "revisions": [{"contentformat": "text/x-wiki", "contentmodel": "wikitext", "*": "#REDIRECT [[Sammy Par\u00e9]]\n{{R from fictional character|Marvel Comics}}"}]}

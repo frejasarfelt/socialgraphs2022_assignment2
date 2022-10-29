@@ -1,0 +1,1 @@
+{"pageid": 69238494, "ns": 0, "title": "Teen Lantern", "revisions": [{"contentformat": "text/x-wiki", "contentmodel": "wikitext", "*": "#REDIRECT [[Green_Lantern#Keli_Quintela]]"}]}

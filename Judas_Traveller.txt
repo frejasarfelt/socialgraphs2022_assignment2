@@ -1,0 +1,1 @@
+{"pageid": 12435281, "ns": 0, "title": "Judas Traveller", "revisions": [{"contentformat": "text/x-wiki", "contentmodel": "wikitext", "*": "#REDIRECT [[Clone Saga]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}"}]}

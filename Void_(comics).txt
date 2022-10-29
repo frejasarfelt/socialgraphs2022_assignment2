@@ -1,0 +1,1 @@
+{"pageid": 67294998, "ns": 0, "title": "Void (comics)", "revisions": [{"contentformat": "text/x-wiki", "contentmodel": "wikitext", "*": "#REDIRECT [[Wildcats (comics)#Original team]]"}]}

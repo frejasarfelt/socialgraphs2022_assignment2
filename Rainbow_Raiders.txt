@@ -1,0 +1,1 @@
+{"pageid": 4553545, "ns": 0, "title": "Rainbow Raiders", "revisions": [{"contentformat": "text/x-wiki", "contentmodel": "wikitext", "*": "#REDIRECT [[Rainbow Raider#Rainbow Raiders]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|DC Comics}}\n}}\n\n[[Category:Characters created by Geoff Johns]]"}]}

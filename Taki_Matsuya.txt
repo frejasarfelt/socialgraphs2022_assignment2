@@ -1,0 +1,1 @@
+{"pageid": 3232211, "ns": 0, "title": "Taki Matsuya", "revisions": [{"contentformat": "text/x-wiki", "contentmodel": "wikitext", "*": "#REDIRECT [[List of X-Men members]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}"}]}
